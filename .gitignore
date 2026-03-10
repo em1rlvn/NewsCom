@@ -1,0 +1,8 @@
+﻿node_modules/
+node_modules-simple/
+my-news-simple/     # если это не твой код, а временная папка — тоже игнорируем
+.env
+.env.*
+*.log
+dist/
+build/
